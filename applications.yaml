@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: 'https://pavel167988.github.io/jenkins-helm/'
-    targetRevision: 0.1.0
+    targetRevision: 0.3.0
     chart: jenkins
   destination:
     server: 'https://kubernetes.default.svc'
